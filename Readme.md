@@ -1,7 +1,7 @@
 # Discord
 #### _Saya membuat Bagaimana Caranya Agar Dapat melakukan Push Level Di Discord menggunkan Termux_
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-![made-with-python](https://img.shields.io/badge/Airdrop%20Code-Discord-green)
+[![made-with-python](https://img.shields.io/badge/Airdrop%20Code-Discord-green)](https://github.com/Airdropcode/Discord)
 
 Dengan Mengunakan Kode Ini Anda Tidak Akan Susah lagi Untuk melakukan Push Level Di Discord.
 
