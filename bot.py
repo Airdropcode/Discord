@@ -3,7 +3,6 @@
 # Created By Airdrop Code ( github.com/AirdropCode )
 # Use At Your Own Risk
 
-::::::::::::::: Airdrop Code :::::::::::::::
                                                                                                                         
 import requests, random, sys, yaml, time
 
