@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # Simple Discord SelfBot
-# Created By Viloid ( github.com/vsec7 )
+# Created By Airdrop Code ( github.com/AirdropCode )
 # Use At Your Own Risk
+# 
 
 import requests, random, sys, yaml, time
 
