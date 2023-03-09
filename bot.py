@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Simple Discord SelfBot
+# Discord Level
 # Created By Airdrop Code ( github.com/AirdropCode )
 # ::::::::::::::: Airdrop Code :::::::::::::::
 
