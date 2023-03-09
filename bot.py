@@ -1,5 +1,16 @@
 #!/usr/bin/env python3
 # Discord Level
+#    /\         /\         
+#   /  \_______/  \        
+#  /               \       
+# |     ___   ___   |      
+# |    /   \ /   \  |      
+# |   |     |     | |      
+# |    \___/ \___/  |      
+# |                 |      
+# |     C O D E     |      
+# \________________/       
+
 # Created By Airdrop Code ( github.com/AirdropCode )
 # ::::::::::::::: Airdrop Code :::::::::::::::
 
