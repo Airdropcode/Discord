@@ -2,18 +2,6 @@
 # Simple Discord SelfBot
 # Created By Airdrop Code ( github.com/AirdropCode )
 # Use At Your Own Risk
-print("   
-   /\         /\         
-  /  \_______/  \        
- /               \       
-|     ___   ___   |      
-|    /   \ /   \  |      
-|   |     |     | |      
-|    \___/ \___/  |      
-|                  |      
-|  C    O    D    E |      
- \________________/       
-print("===========================================\n")
 
 import requests, random, sys, yaml, time
 
